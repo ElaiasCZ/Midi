@@ -4,6 +4,8 @@
     --vermelha-escura: #af303f;
     --branca: #fff;
     --luz: rgb(229, 255, 0);
+    --preto:#000000;
+
   }
   
   body {
@@ -24,7 +26,7 @@
   
   .teclado {
     background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
-    box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #000;
+    box-shadow: 6px 8px 0 6px #e7aaff, 10px 10px 10px #f599d1;
     border-radius: 30px;
     display: grid;
     gap: 10px;
