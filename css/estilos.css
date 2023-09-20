@@ -5,6 +5,7 @@
     --roxo: #8d2faa;
     --luz: rgb(255, 181, 218);
     --preto:#000000;
+    --rosio:#ffdfed;
 
   }
   
@@ -19,7 +20,7 @@
   }
   
   h1 {
-    color: var(--roxo);
+    color: var(--rosio);
     margin-bottom: 20px;
     font-size: 2rem;
   }
