@@ -27,7 +27,7 @@
   
   .teclado {
     background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
-    box-shadow: 6px 8px 0 6px #d56cff, 10px 10px 10px #f599d1;
+    box-shadow: 6px 8px 0 6px #ff6cb6, 10px 10px 10px #f599d1;
     border-radius: 30px;
     display: grid;
     gap: 10px;
@@ -53,7 +53,7 @@
     text-align: center;
     width: 120px;
   }
-}
+
   
   .tecla.ativa,
   .tecla:active {
