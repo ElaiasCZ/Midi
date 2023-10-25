@@ -1,5 +1,5 @@
 //tecla Pom
-function tocaSomPom () {
+/*function tocaSomPom () {
   document.querySelector('#som_tecla_pom').play();
 }
 
@@ -28,6 +28,10 @@ document.querySelector('.tecla_puff').onclick = tocaSomPuff;
 
 //tecla Splash
 function tocaSomSplash () {
+
+
+
+
   document.querySelector('#som_tecla_splash').play();
 }
 
@@ -63,15 +67,7 @@ document.querySelector('.tecla_tom').onclick = tocaSomTom;
 
 
 
-
-
-
-
 document.querySelectorAll('.tecla');
-
-
-
-
 
 
 /*criando referencia - (reduzindo referencia da linha)deve utilizar a palavra reserva-da const. A palavra const vem de "constante", ou seja, algo que nunca muda.
@@ -79,30 +75,6 @@ Então criar um nome para essa lista(para guardar a lista de botoes)
 Para armazenar um valor na referencia criada, utilize o comando de atribuição =.
 Conclusão:a lista de elementos encontrada por meio do método de busca
 querySelectorAll será armazenada na referência listaDeTeclas.*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 //Declarar e chamar a função, executar o som através do play
