@@ -6,6 +6,7 @@
   --luz: rgb(255, 181, 218);
   --preto:#000000;
   --rosio:#ffdfed;
+  --rosium:#ffaed7;
 }
 
 body {
@@ -53,7 +54,7 @@ h1 {
   background-color: var(--branca);
   border: 4px solid  var(--branca);
   box-shadow: 3px 3px 0 var(--meio-branca) inset;
-  color: var(--rosio);
+  color: var(--rosium);
   outline: none;
 }
 
